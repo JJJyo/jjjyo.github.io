@@ -26,7 +26,7 @@
       <pubDate>Wed, 07 Aug 2019 00:06:30 +0800</pubDate>
       
       <guid>https://jjjyo.github.io/post/blog/</guid>
-      <description>hugo server -t m10c &amp;ndash;buildDrafts 本地启动服务 hugo new post/xxx.md 在/content/post下建了xxx.md
+      <description>hugo server -t m10c &amp;ndash;buildDrafts 本地启动服务 hugo new post/xxx.md 在/content/post下建了xxx.md hugo &amp;ndash;theme=m10c &amp;ndash;baseUrl=&amp;ldquo;https/jjjyo.github.io&amp;rdquo; &amp;ndash;buildDrafts 更新
 正确步骤： git init //初始化仓库
 进入public git add .(文件name) //添加文件到本地仓库
 git commit -m “first commit” //添加文件描述信息
