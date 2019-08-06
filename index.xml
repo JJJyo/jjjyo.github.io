@@ -6,19 +6,10 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Aug 2019 00:48:26 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2019 00:06:30 +0800</lastBuildDate>
     
 	<atom:link href="https/jjjyo.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>测试</title>
-      <link>https/jjjyo.github.io/post/%E6%B5%8B%E8%AF%95/</link>
-      <pubDate>Wed, 07 Aug 2019 00:48:26 +0800</pubDate>
-      
-      <guid>https/jjjyo.github.io/post/%E6%B5%8B%E8%AF%95/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>博客建立命令</title>
