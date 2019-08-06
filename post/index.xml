@@ -6,18 +6,33 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Aug 2019 00:06:30 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2019 00:48:26 +0800</lastBuildDate>
     
 	<atom:link href="https://jjjyo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blog</title>
+      <title>测试</title>
+      <link>https://jjjyo.github.io/post/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Wed, 07 Aug 2019 00:48:26 +0800</pubDate>
+      
+      <guid>https://jjjyo.github.io/post/%E6%B5%8B%E8%AF%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo命令</title>
       <link>https://jjjyo.github.io/post/blog/</link>
       <pubDate>Wed, 07 Aug 2019 00:06:30 +0800</pubDate>
       
       <guid>https://jjjyo.github.io/post/blog/</guid>
-      <description></description>
+      <description>hugo server -t m10c &amp;ndash;buildDrafts 本地启动服务 hugo new post/xxx.md 在/content/post下建了xxx.md
+正确步骤： git init //初始化仓库
+进入public git add .(文件name) //添加文件到本地仓库
+git commit -m “first commit” //添加文件描述信息
+git remote add origin + 远程仓库地址 //链接远程仓库，创建主分支 https://github/JJJyo/jjjyo.github.io.git
+git pull origin master // 把本地仓库的变化连接到远程仓库主分支
+git push -f origin master //把本地仓库的文件推送到远程仓库</description>
     </item>
     
   </channel>
