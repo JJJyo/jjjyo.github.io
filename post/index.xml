@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>mysql主从</title>
+      <link>https/jjjyo.github.io/post/mysql%E4%B8%BB%E4%BB%8E/</link>
+      <pubDate>Wed, 07 Aug 2019 00:06:30 +0800</pubDate>
+      
+      <guid>https/jjjyo.github.io/post/mysql%E4%B8%BB%E4%BB%8E/</guid>
+      <description>mysql主从 公司客户需要数据同步，想到配置主从数据库解决 https://blog.csdn.net/langqingj/article/details/80924251 主要参考的帖子
+主要问题： 1.my.ini文件，可以在C盘隐藏文件progremdata里找到。 2.不在mysqld &amp;ndash;install操作，生成新的mysql服务的话，用的还是progremdata里的my.ini文件。 3.好好装mysql会死吗！ 4.</description>
+    </item>
+    
+    <item>
       <title>博客建立命令</title>
       <link>https/jjjyo.github.io/post/blog/</link>
       <pubDate>Wed, 07 Aug 2019 00:06:30 +0800</pubDate>
